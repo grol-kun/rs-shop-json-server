@@ -177,9 +177,9 @@
           "id": "612d297e909d34fafdb4c9c2",
           "name": "Gas stove Gefest 3200-06",
           "imageUrls": [
-            "https://cdn21vek.by/img/galleries/4/308/preview_b/gefest_320005_57b5ae02e8e4c.jpeg",
-            "https://cdn21vek.by/img/galleries/4/308/preview_b/gefest_320005_58cffd0d9a326.jpeg",
-            "https://cdn21vek.by/img/galleries/4/308/preview_b/gefest_320005_58cffe210b3dc.png"
+            "https://cdn21vek.by/img/galleries/4/859/gefest_320006_5daed30b871dc.jpeg",
+            "https://cdn21vek.by/img/galleries/4/859/gefest_320006_61e7ecb0aa164.jpeg",
+            "https://cdn21vek.by/img/galleries/4/859/gefest_320006_5daed30b56f87.jpeg"
           ],
           "rating": 5,
           "availableAmount": 4,
@@ -1172,8 +1172,8 @@
           "id": "612d518ff5d0a0896c256acc",
           "name": "Washing machine Beko WRE65P2BAA",
           "imageUrls": [
-            "https://cdn21vek.by/img/galleries/5927/934/preview_b/wre65p2baa_beko_5e6f3dccd890a.jpeg",
-            "https://cdn21vek.by/img/galleries/5927/934/preview_b/wre65p2baa_beko_5e6f3dccad025.jpeg",
+            "https://cdn21vek.by/img/galleries/5927/934/wre65p2baa_beko_61658763dda7d.jpeg",
+            "https://cdn21vek.by/img/galleries/5927/934/wre65p2baa_beko_6165873c79498.jpeg",
             ""
           ],
           "rating": 5,
@@ -3228,7 +3228,9 @@
         {
           "id": "612fecfeaf71e5e9648b7db5",
           "name": "Lenovo ThinkStation P340 Tiny System Unit (30DES23S00)",
-          "imageUrls": [],
+          "imageUrls": [
+		"https://avatars.mds.yandex.net/get-mpic/1704691/img_id1441115922570344435.jpeg/orig"
+		],
           "rating": 2,
           "availableAmount": 20,
           "price": 2683,
@@ -4420,9 +4422,9 @@
           "id": "61332c27b43d82dfda40ae0f",
           "name": "Corner sofa Mebelico Atlanta M 500 right (corfu 03)",
           "imageUrls": [
-            "https://cdn21vek.by/img/galleries/6013/346/preview_b/500_mebelico_05_5fdc54de5510e.jpeg",
-            "https://cdn21vek.by/img/galleries/6013/346/preview_b/500_mebelico_05_5fdc54f4bf8e3.jpeg",
-            "https://cdn21vek.by/img/galleries/6013/346/preview_b/500_mebelico_05_5fdc54e2424e7.jpeg"
+            "https://cdn21vek.by/img/galleries/6013/346/500_mebelico_05_61431fcc3fddb.jpeg",
+            "https://cdn21vek.by/img/galleries/6013/346/500_mebelico_05_5fdc54e2424e7.jpeg",
+            "https://cdn21vek.by/img/galleries/6013/346/500_mebelico_05_61431fcedfe49.jpeg"
           ],
           "rating": 4,
           "availableAmount": 30,
@@ -4433,9 +4435,9 @@
           "id": "61332c27d0b63c8ae6fbc3e4",
           "name": "Corner sofa Mio Tesoro Verona left (matting, gray)",
           "imageUrls": [
-            "https://cdn21vek.by/img/galleries/916/55/preview_b/175_mebelico_07_60ec5bdb60106.jpeg",
-            "https://cdn21vek.by/img/galleries/916/55/preview_b/175_mebelico_07_60ec5bfc9833f.jpeg",
-            "https://cdn21vek.by/img/galleries/916/55/preview_b/175_mebelico_07_60ec5bdc38c60.jpeg"
+            "https://cdn21vek.by/img/galleries/7458/112/500106977_mebelico_627b5e0adcaac.jpeg",
+            "https://cdn21vek.by/img/galleries/7458/112/500106977_mebelico_627b5fa847e52.jpeg",
+            "https://cdn21vek.by/img/galleries/7458/112/500106977_mebelico_627b5facb6b3c.jpeg"
           ],
           "rating": 4,
           "availableAmount": 29,
@@ -6252,6 +6254,32 @@
           "availableAmount": 27,
           "price": 40.77,
           "description": "culpa aliqua ad labore amet do adipisicing irure ipsum tempor tempor ut ea Lorem culpa amet fugiat proident nostrud ullamco deserunt quis aliqua anim Lorem consectetur sit minim culpa cupidatat ex ut aliqua aliquip enim ea esse enim exercitation ut"
+        }
+      ]
+    },
+
+    "advertising": {
+      "carousel": [
+        {
+          "good_id": "612fe4ecea58ead53cd93899",
+          "name": "Dell Precision Laptop (5550-279172)",
+          "imageUrls": [
+            "https://www.21vek.by/img/tmp/b/62dea0536b4d0730x440_компьютерные-комплектующие.jpg"
+          ]
+        },
+        {
+          "good_id": "612fcd83dd0e81d25d39d8d8",
+          "name": "Samsung TV QE75QN85AAUXRU",
+          "imageUrls": [
+            "https://www.21vek.by/img/tmp/b/62d565ef0e89c730x440_21vek-Blaupunkt-TV.jpg"
+          ]
+        },
+        {
+          "good_id": "CSMV5335MC0S",
+          "name": "Refrigerator with freezer Beko CSMV5335MC0S",
+          "imageUrls": [
+            "https://www.21vek.by/img/tmp/b/62dea4529c862maunfeld.jpg"
+          ]
         }
       ]
     }
